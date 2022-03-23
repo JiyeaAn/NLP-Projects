@@ -15,4 +15,4 @@
 - 데이터 수집 방식: Python_Selenium을 사용하여 크롤러를 제작하여 수집 *row data이슈로 크롤러 코드 비공개
 - 리뷰 작성 기간: 2019.05.01~2021.10.06
 - 분석 방법: LDA & Word Cloud
-- 게시글: 
+- 게시글: Shopping-review-LDA
