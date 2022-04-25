@@ -16,4 +16,4 @@
 - 데이터 수집 방식: Python_Selenium을 사용하여 크롤러를 제작하여 수집 *row data이슈로 크롤러 코드 비공개
 - 분석 방법: LDA & Word Cloud
 - ✔️ 게시글: Shopping-review-LDA
-- 연구실적: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10664483
+- 💎 연구실적: 안지예, 연진욱, 윤서빈, 김남규, 상품 사용기간에 따른 토픽별 사용자 평가의 변화 분석, 한국정보기술학회 종합학술발표논문집, 2021, 94-96.
